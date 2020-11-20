@@ -1,0 +1,19 @@
+{
+    "name": "frontend-extension-pack",
+    "displayName": "Frontend Extension Pack",
+    "description": "A collection of useful extensions when working with JS/HTML/CSS or frameworks for either.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "dbaeumer.vscode-eslint",
+        "ritwickdey.liveserver",
+        "visualstudioexptteam.vscodeintellicode",
+        "octref.vetur",
+        "eg2.vscode-npm-script"
+    ]
+}
