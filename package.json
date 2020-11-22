@@ -1,6 +1,6 @@
 {
-    "name": "frontend-extension-pack",
-    "displayName": "Frontend Extension Pack",
+    "name": "web-extension-pack",
+    "displayName": "Web Extension Pack",
     "description": "A collection of useful extensions when working with JS/HTML/CSS or frameworks for either.",
     "version": "0.0.1",
     "engines": {
@@ -14,6 +14,8 @@
         "ritwickdey.liveserver",
         "visualstudioexptteam.vscodeintellicode",
         "octref.vetur",
-        "eg2.vscode-npm-script"
+        "eg2.vscode-npm-script",
+        "ecmel.vscode-html-css",
+        "christian-kohler.path-intellisense"
     ]
 }
