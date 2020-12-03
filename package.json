@@ -3,7 +3,7 @@
     "displayName": "Web Extension Pack",
     "publisher": "niem94",
     "description": "A collection of useful extensions when working with JS/HTML/CSS or frameworks for either.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.51.0"
     },
@@ -21,6 +21,7 @@
         "octref.vetur",
         "eg2.vscode-npm-script",
         "ecmel.vscode-html-css",
-        "christian-kohler.path-intellisense"
+        "christian-kohler.path-intellisense",
+        "esbenp.prettier-vscode"
     ]
 }

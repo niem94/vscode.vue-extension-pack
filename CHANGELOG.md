@@ -4,6 +4,6 @@ All notable changes to the "frontend-extension-pack" extension pack will be docu
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## 2020-12-03
 
-- Initial release
+- Added Prettier primarily for CSS formatting.
