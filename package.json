@@ -1,15 +1,15 @@
 {
-    "name": "web-extension-pack",
-    "displayName": "Web Extension Pack",
+    "name": "vue-extension-pack",
+    "displayName": "Vue Extension Pack",
     "publisher": "niem94",
-    "description": "A collection of useful extensions when working with JS/HTML/CSS or frameworks for either.",
-    "version": "0.0.2",
+    "description": "A collection of useful extensions when working with Vue.",
+    "version": "0.0.1",
     "engines": {
         "vscode": "^1.51.0"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/niem94/vscode.web-extension-pack"
+        "url": "https://github.com/niem94/vscode.vue-extension-pack"
     },
     "categories": [
         "Extension Packs"
